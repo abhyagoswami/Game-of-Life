@@ -1,5 +1,5 @@
 # Description
-- This is a visual implemntation of Conway's Game of Life in such a way that any wikipedia GoL txt/RLE file works with it.
+- This is a visual implementation of Conway's Game of Life in such a way that any wikipedia GoL txt/RLE file works with it.
 - The code skeleton is credited to The University of Queensland - Dr Shakes Chandra. 
 - All implementations are credited to author - Abhya Goswami.
   
